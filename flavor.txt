@@ -2,3 +2,5 @@ sweet
 sour
 bitter
 sweet-salt
+salty
+
